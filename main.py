@@ -5,7 +5,6 @@ from PIL import Image
 import time
 
 st.title('Streamlit')
-
 """
 ## プログレスバー
 """
