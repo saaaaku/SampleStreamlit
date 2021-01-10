@@ -64,8 +64,8 @@ condition = st.slider('今の調子は？',0, 100, 50)
 """
 ## 画像を表示
 """
-img = Image.open('./frontale.jpeg')
-st.image(img, caption='frontale', use_column_width=True)
+# img = Image.open('./frontale.jpeg')
+# st.image(img, caption='frontale', use_column_width=True)
 
 """
 ## マップのプロット
